@@ -43,3 +43,4 @@ Scikit-learn Metrics: For calculating evaluation metrics such as Accuracy.
 **Integrated Development Environment (IDE)**:
 Colab Notebook: For interactive development, data exploration, and visualization.
 
+![image alt](https://github.com/supriya-somishetty/Credit-Card-Fraud-Detection/blob/dff7de614ed8a20e69c30cc9d56554f5a71198f4/credit_card_output.png)
