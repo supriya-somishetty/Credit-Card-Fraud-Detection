@@ -1,3 +1,15 @@
+**Name:** SOMISHETTY SUPRIYA
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID**: CT04DS6799
+
+**Domain:** MACHINE LEARNING
+
+**Duration:** August to September 2024
+
+**Mentor:** Neela Santosh Kumar
+
 # Credit-Card-Fraud-Detection
 ## Objective
 The objective of this project is to develop a predictive model using logistic regression to detect fraudulent credit card transactions. This model aims to assist financial institutions and credit card companies in identifying potentially fraudulent activities in real-time, thereby reducing financial losses and enhancing security measures.
